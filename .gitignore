@@ -1,0 +1,5 @@
+.pio/
+.DS_Store
+._*
+*.bin
+*.elf
